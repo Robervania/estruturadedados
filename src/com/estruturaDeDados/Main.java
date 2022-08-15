@@ -31,7 +31,7 @@ public class Main {
         //String meuApt = pilha.pop();
         //System.out.println(meuApt);
 
-        // peek() para verifiacr objeto sem remover
+        // peek() para verificar se objeto está na pilha sem remover
         //System.out.println(pilha.peek());
 
         //procura por objeto na pilha.
