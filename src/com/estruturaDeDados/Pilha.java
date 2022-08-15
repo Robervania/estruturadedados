@@ -2,7 +2,7 @@ package com.estruturaDeDados;
 
 import java.util.Stack;
 
-public class Main {
+public class Pilha {
 
     public static void main(String[] args) {
 
