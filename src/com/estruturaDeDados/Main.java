@@ -27,8 +27,9 @@ public class Main {
         pilha.push("Apartamento 205");
         pilha.push("Apartamento 206");
 
-        // pop() para remover objetos do topo (é possivel armazenar o objeto
+        // pop() para remover objetos do topo (é possivel armazenar o objeto em uma variavel)
         //String meuApt = pilha.pop();
+        //System.out.println(meuApt);
 
         // peek() para verifiacr objeto sem remover
         //System.out.println(pilha.peek());
@@ -37,7 +38,7 @@ public class Main {
         // System.out.println(pilha.search("Apartamento 204"));
 
         System.out.println(pilha);
-        //System.out.println(meuApt);
+
 
     }
 }
