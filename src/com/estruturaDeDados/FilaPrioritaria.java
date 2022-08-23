@@ -8,9 +8,7 @@ public class FilaPrioritaria {
 
     public static void main(String[] args) {
 
-        // Fila em ordem reversa
-        //Queue<Double> fila = new PriorityQueue<>(Collections.reverseOrder());
-
+        
         //Fila em ordem padrão.
         Queue<Double> fila = new PriorityQueue<>();
 
